@@ -68,8 +68,8 @@ aby załączyć obrazek
 ### Wirtualizacja typy sieci
 
 Przetestuj parametry sieci dla różnych typów wspieranych przez Twoje oprogramowanie. każdą konfigurację opatrz komentarzem co do funkcjonalności. 
-* połączenie z internetem Tak / Nie
-* połączenie z innymi wirtualnymi maszynami Tak / Nie
+* połączenie z internetem Tak/Nie 
+* połączenie z innymi wirtualnymi maszynami Tak/Nie 
 * połączenie z komputerem Hostem Tak / Nie
 * połączenie z innymi urządzeniami w sieci Hosta Tak / Nie
 
@@ -78,9 +78,9 @@ Przetestuj parametry sieci dla różnych typów wspieranych przez Twoje oprogram
 -------------------------
 | Program | Typ | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
-|Virtualbox|bridge||
+|Virtualbox|bridge|Połączenie z internetem - Tak, Połączenie z innymi wirtualnymi maszynami - Nie wiem, Połączenie z komputerem Hostem - Tak, Połączenie z innymi urządzeniami w sieci Hosta - Tak|
 |Virtualbox|hostonly||
-|Virtualbox|nat||
+|Virtualbox|nat| za wszystko dba program zapewniają☺cy wirtualizacje |
 
 
 ### Ustawienia dla innego oprogramowania
